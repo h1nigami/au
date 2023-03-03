@@ -1,0 +1,2 @@
+# au
+ auto-participation lolzteam
