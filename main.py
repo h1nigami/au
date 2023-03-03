@@ -6,7 +6,6 @@ from selenium.webdriver.common.by import By
 
 login = str(input("Логин:"))
 pss = str(input("Пароль:"))
-print("Ты даун?")
 browser = webdriver.Firefox()
 options = webdriver.FirefoxOptions()
 options.add_argument('--headless')
